@@ -1,5 +1,7 @@
 # Prompting
 
+Link to website: [https://nowitends.github.io/promting/](https://nowitends.github.io/promting/)
+
 ## Make your own website
 
 1. Click **Fork** at the top of this repository to create a copy in your GitHub account.
