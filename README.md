@@ -1,4 +1,4 @@
-# promting
+# Prompting
 
 ## Make your own website
 
