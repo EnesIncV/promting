@@ -1,6 +1,8 @@
 # Prompting
 
-Link to website: [https://nowitends.github.io/promting/](https://nowitends.github.io/promting/)
+Repository: [https://github.com/EnesIncV/promting](https://github.com/EnesIncV/promting)
+
+Link to website: [https://enesincv.github.io/promting/](https://enesincv.github.io/promting/)
 
 ## Make your own website
 
